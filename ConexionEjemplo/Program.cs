@@ -10,7 +10,7 @@ namespace ConexionEjemplo
     {
         /// <summary>
         /// Punto de entrada principal para la aplicación.
-        /// </summary>
+        /// </summary> 
         [STAThread] // Especifica que el hilo que ejecuta la aplicación debe usar un modelo de apartamento de un solo hilo (STA). Requerido para la mayoría de las aplicaciones de Windows Forms.
         static void Main()
         {
